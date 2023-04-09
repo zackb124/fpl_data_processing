@@ -35,7 +35,7 @@
 
 <div align="left">
   
-The following program aim is to using NFL fantasy league data as an indicator for players popylarty.
+The following program aim is to using the Fantasy Premier League data as an indicator for players popylarty.
   
 It is using a scraper to import the data, upload and update it concictely on a PostgreSQL DB, and by being connected to the server: Analyse the 
 data on real time.
