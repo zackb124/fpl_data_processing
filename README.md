@@ -51,9 +51,7 @@ data on real time.
 
 
 * [Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)
-* [Matplotlib](https://matplotlib.org/)
 * [SQLAlchemy](https://www.sqlalchemy.org/)
-* [FPDF](https://pyfpdf.readthedocs.io/en/latest/)  
   
   
 
@@ -76,24 +74,13 @@ Make sure that your Python version is 3.8 or higher. For running the scripts pro
 
   ```
 
- 
-* Matplotlib
-  ```sh
-  pip install matplotlib
-
-  ``` 
-  
 
 * SQLAlchemy
   ```sh
   pip install sqlalchemy
 
   ```
- 
-* FPDF
-  ```sh
-  pip install fpdf
-  ```    
+  
 &nbsp; 
 
 <!-- USAGE EXAMPLES -->
